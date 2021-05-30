@@ -39,6 +39,7 @@ On va avoir besoin d'une techno pour enregistrer le flux vidéo.
  - [un post google devellopeurs](https://developers.google.com/web/updates/2016/01/mediarecorder)
  - [Plus de détails sur comment fonctionne l'api](https://whatwebcando.today/recording.html)
  - [Un tuto media recorder](https://www.twilio.com/blog/mediastream-recording-api)
+ - [Un post google dev](https://developers.google.com/web/fundamentals/media/recording-video)
 
 ### 3.1. Base de données
 Comment tu vois la base de données de l'application ?
