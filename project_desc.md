@@ -35,8 +35,9 @@ Dans cette partie, tu pourras décrire l'aspect technique du projet.
 
 On va avoir besoin d'une techno pour enregistrer le flux vidéo.
  - On pense à [Media recorder](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder).
- - [Media recorder API](https://developers.google.com/web/updates/2016/01/mediarecorder)
-  [Plus de détails](https://whatwebcando.today/recording.html)
+ - [la page mdn de l'api](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API)
+ - [un post google devellopeurs](https://developers.google.com/web/updates/2016/01/mediarecorder)
+ - [Plus de détails sur comment fonctionne l'api](https://whatwebcando.today/recording.html)
  - [Un tuto media recorder](https://www.twilio.com/blog/mediastream-recording-api)
 
 ### 3.1. Base de données
