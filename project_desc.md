@@ -67,11 +67,15 @@ On va avoir besoin d'une techno pour enregistrer le flux vidéo.
  - [Un tuto media recorder](https://www.twilio.com/blog/mediastream-recording-api)
  - [Un post google dev](https://developers.google.com/web/fundamentals/media/recording-video)
 
+## Sources d'inspiration
+* https://vestimonials.tv/
 
 ## TO DO
-sauvegarder en base les vidéos en production
-les ressortir ==> dans une page de profil
-récupérer les infos liées a la vidéo == date, nom
+
+* Vérifier la faisabilité du projet
+  * Sauvegarder en base les vidéos en production
+  * Les ressortir ==> dans une page de profil
+  * Récupérer les infos liées a la vidéo ==> date, nom
 
 
 ## DONE
