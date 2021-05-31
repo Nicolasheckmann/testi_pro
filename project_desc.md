@@ -29,17 +29,10 @@ Un utilisateur connecté a accés à son profil d'où il peut :
 * télécharger les vidéos receuillies
 * _{intégrer les vidéos receuillies a son site web ?}_
 
-
 ## 3. Concrètement et techniquement
 Dans cette partie, tu pourras décrire l'aspect technique du projet.
 
-On va avoir besoin d'une techno pour enregistrer le flux vidéo.
- - On pense à [Media recorder](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder).
- - [la page mdn de l'api](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API)
- - [un post google devellopeurs](https://developers.google.com/web/updates/2016/01/mediarecorder)
- - [Plus de détails sur comment fonctionne l'api](https://whatwebcando.today/recording.html)
- - [Un tuto media recorder](https://www.twilio.com/blog/mediastream-recording-api)
- - [Un post google dev](https://developers.google.com/web/fundamentals/media/recording-video)
+
 
 ### 3.1. Base de données
 Comment tu vois la base de données de l'application ?
@@ -62,4 +55,30 @@ Ceci s'appelle le MVP, pour Minimum Viable Product. Voici un exemple de MVP pour
 La deuxième semaine vous allez ajouter des fonctionnalités pour améliorer l'expérience utilisateurs de votre application. Quelles fonctionnalités tu aimerais bien ajouter ?
 
 ## 6. Notre mentor
-Qui est ton mentor ?
+Bénédicte KANY 
+
+## Resources
+
+On va avoir besoin d'une techno pour enregistrer le flux vidéo.
+ - On pense à [Media recorder](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder).
+ - [la page mdn de l'api](https://developer.mozilla.org/en-US/docs/Web/API/MediaStream_Recording_API)
+ - [un post google devellopeurs](https://developers.google.com/web/updates/2016/01/mediarecorder)
+ - [Plus de détails sur comment fonctionne l'api](https://whatwebcando.today/recording.html)
+ - [Un tuto media recorder](https://www.twilio.com/blog/mediastream-recording-api)
+ - [Un post google dev](https://developers.google.com/web/fundamentals/media/recording-video)
+
+
+## TO DO
+sauvegarder en base les vidéos en production
+les ressortir ==> dans une page de profil
+récupérer les infos liées a la vidéo == date, nom
+
+
+## DONE
+
+* Réussir a enregistrer un flux vidéo depuis un navigateur sans plug-in
+* Pouvoir revisionner la vidéo enregistrée 
+* Générer un lien de téléchargement de la vidéo
+* Diffuser en direct le flux vidéo pendant l'enregistrement
+
+=> **https://nicolasheckmann.github.io/testi_test/**
